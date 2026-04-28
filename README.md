@@ -87,8 +87,8 @@ The project follows a simple Kanban workflow.
     ```
 
 
-
-   1. Persoonad
+---
+1. Persoonad
 Persoona 1: Martin, 22
 Üliõpilane, mängur
 Kasutab igapäevaselt arvutit õppimiseks ja mängimiseks
